@@ -213,4 +213,8 @@ footer img {
         margin: 10px;
         width: 80%;
     }
+
+    footer img {
+        width: 5px;
+    }
 }
