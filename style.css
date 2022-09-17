@@ -156,7 +156,7 @@ footer p {
 }
 
 footer img {
-    width: 25px;
+    width: 3.5%;
     margin: 0 5px
 }
 
@@ -215,6 +215,6 @@ footer img {
     }
 
     footer img {
-        width: 5px;
+        width: 5%;
     }
 }
