@@ -13,6 +13,7 @@ function btnEncriptar() {
 function btnDesencriptar() {
     const textoDesencriptado = desencriptar(inputTexto.value);
     mensagem.value = textoDesencriptado;
+    document.querySelector(".resultado-texto").style.backgroundImage = "none";
 }
 
 /*As "chaves" de criptografia que são:
