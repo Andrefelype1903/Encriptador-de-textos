@@ -1,6 +1,6 @@
 {
-    "name": "Relógio analógico",
-    "short_name": "Relógio",
+    "name": "Encriptdor de textos",
+    "short_name": "Encriptdor",
     "icons": [
         {
             "src": "../imagens/error.png"
