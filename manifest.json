@@ -3,11 +3,11 @@
     "short_name": "Encriptdor",
     "icons": [
         {
-            "src": "../imagens/error.png"
+            "src": "./imagens/error.png"
         }
     ],
 
-    "start_url": "../index.html",
+    "start_url": "./index.html",
     "display": "standalone",
     "theme_color": "#ffffff",
     "backgroud_color": "#ffffff"
