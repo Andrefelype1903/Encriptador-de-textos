@@ -1,0 +1,15 @@
+{
+    "name": "Relógio analógico",
+    "short_name": "Relógio",
+    "icons": [
+        {
+            "src": "../imagens/error.png"
+        }
+    ],
+
+    "start_url": "../index.html",
+    "display": "standalone",
+    "theme_color": "#ffffff",
+    "backgroud_color": "#ffffff"
+
+}
