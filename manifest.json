@@ -3,7 +3,8 @@
     "short_name": "Encriptdor",
     "icons": [
         {
-            "src": "./imagens/error.png"
+            "src": "./imagens/error.png",
+            "sizes": "192x192"
         }
     ],
 
